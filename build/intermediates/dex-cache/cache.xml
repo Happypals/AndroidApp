@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_68d6e14de450424829633c9f7b77cad61c328a46/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xizhouli/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_177d03cc61488bd5d81cae9a7faee02de87d0a13/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_d0a5619262f21ca33387bb33b31a67b6827e1132/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_b5618c7afc5984f35415096a807e4672997fae6e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_a820977fb548de43c5a2dd87ebad850b5c5598ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_6b813e5cb626115aaa0fcf68258f4ce9373f5418/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_58ca3f58b5c7a7436abf6fd9dba0f9c9b6d63f1d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_8469e55dc1b2b26605dee7826d8b4d20bf68fd79/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_d21979a58c2407aac84bca1ae88ca3d5aa40ca10/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_e7573c6bdf58d87500970f415064d4ba45f70fe5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c347e55cec223d50ee4d8770534759dd3f764aca">
+        <dex dex="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_937329776675b4b14d2036b2aa53bdea43bc914a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c0e3d67afc2a426af3826db7001ac735a9411718">
+        <dex dex="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ed75672e60d4dc1f6d243b0e0f1f58b69d8c321c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/xizhouli/Downloads/android-RuntimePermissions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_5c7d252e18eaca445126ca48fdb3f504fdd1068e/classes.dex" />
+    </item>
+
+</items>
