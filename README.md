@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 Android RuntimePermissions Sample
 ===================================
@@ -61,7 +60,7 @@ submitting a pull request through GitHub. Please see CONTRIBUTING.md for more de
 
 License
 -------
-
+Copyright 2016 Xizhou Li
 Copyright 2016 The Android Open Source Project, Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
@@ -78,6 +77,4 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
-=======
 # AndroidApp
->>>>>>> 39a4c275d61ced3da8b815add41480f5787e2005
