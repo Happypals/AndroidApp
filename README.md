@@ -38,7 +38,7 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="screenshots/screenshot-1.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot-2.png" height="400" alt="Screenshot"/> 
+<img src="screenshots/screenshot-1.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot-2.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot-3.png" height="400" alt="Screenshot"/>
 
 Getting Started
 ---------------
@@ -61,6 +61,7 @@ submitting a pull request through GitHub. Please see CONTRIBUTING.md for more de
 License
 -------
 Copyright 2016 Xizhou Li
+
 Copyright 2016 The Android Open Source Project, Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
